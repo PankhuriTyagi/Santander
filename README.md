@@ -1,4 +1,4 @@
-['src/CompititionLogo.jpg']
+[]('src/CompititionLogo.jpg')
 # Kaggle Compitition - Santander Customer Transaction Prediction
 ## Introduction
 This is my team's pass at the Santander Customer Transaction Prediction Kaggle Compitition. We completed this post the compitition was finished. But the score achieved here is within that of top-10 teams.
@@ -14,7 +14,7 @@ Find the data here: https://www.kaggle.com/competitions/santander-customer-trans
 We used CNN to find underlying structures in the data.
 
 ## Structure
-The ['code/santander-eda-and-prediction.ipynb']code includes initial data explorations, different modeling algorithms and the stacking for the final results.
+The [code]('code/santander-eda-and-prediction.ipynb') includes initial data explorations, different modeling algorithms and the stacking for the final results.
 
 
 ## References
