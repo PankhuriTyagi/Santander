@@ -14,7 +14,7 @@ Find the data here: https://www.kaggle.com/competitions/santander-customer-trans
 We used CNN to find underlying structures in the data.
 
 ## Structure
-The [code]('code/santander-eda-and-prediction.ipynb') includes initial data explorations, different modeling algorithms and the stacking for the final results.
+The [code]('/code/santander-eda-and-prediction.ipynb') includes initial data explorations, different modeling algorithms and the stacking for the final results.
 
 
 ## References
