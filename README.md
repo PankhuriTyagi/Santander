@@ -1,7 +1,7 @@
 ![Kaggle Logo](src/CompititionLogo.jpg)
-# Kaggle Compitition - Santander Customer Transaction Prediction
+# Kaggle Competition - Santander Customer Transaction Prediction
 ## Introduction
-This is my team's pass at the Santander Customer Transaction Prediction Kaggle Compitition. We completed this post the compitition was finished. But the score achieved here is within that of top-10 teams.
+This is my team's pass at the Santander Customer Transaction Prediction Kaggle Competition. We completed this post the compitition was finished. But the score achieved here is within that of Top-10 teams.
 
 ## Aim
 Aim of this compitition is to find the which of the customers will perform the transactions.
@@ -18,5 +18,5 @@ The [code](code/santander-eda-and-prediction.ipynb) includes initial data explor
 
 
 ## References
-Kaggle Compitition URL: https://www.kaggle.com/competitions/santander-customer-transaction-prediction
+Kaggle Competition URL: https://www.kaggle.com/competitions/santander-customer-transaction-prediction
 More references in Future commits
