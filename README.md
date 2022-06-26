@@ -19,4 +19,4 @@ The [code](code/santander-eda-and-prediction.ipynb) includes initial data explor
 
 ## References
 Kaggle Competition URL: https://www.kaggle.com/competitions/santander-customer-transaction-prediction
-More references in Future commits
+Code references placed along with the code
