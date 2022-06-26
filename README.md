@@ -1,4 +1,4 @@
-[](src/CompititionLogo.jpg)
+[Kaggle Logo](src/CompititionLogo.jpg)
 # Kaggle Compitition - Santander Customer Transaction Prediction
 ## Introduction
 This is my team's pass at the Santander Customer Transaction Prediction Kaggle Compitition. We completed this post the compitition was finished. But the score achieved here is within that of top-10 teams.
